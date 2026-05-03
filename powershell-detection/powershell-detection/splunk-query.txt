@@ -1,0 +1,3 @@
+index=* sourcetype=WinEventLog:Security
+EventCode=4688
+CommandLine="*powershell*" AND CommandLine="*-enc*"
